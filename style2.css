@@ -148,10 +148,10 @@ body,html{
       top:-25px;
     }
   }
-  @media only screen and (max-width:418px)
+  @media only screen and (max-width:500px)
   {
     .data{
-      font-size: 45px;
+      font-size: 40px;
     }
     .btn{
       width: 100%
